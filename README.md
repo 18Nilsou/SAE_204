@@ -2,4 +2,4 @@
 
 Toutes les données utile pour la SAE-204
 
-Vous trouverez dans le dossier 2 autre dossiers qui correspond au 2 rendu demander avec dans chaqu'un d'eux les donnés utliser et les programmes crée, et aussi les rendus demander.
+Vous trouverez dans le dossier 2 autres dossiers qui correspond aux 2 rendus demander avec dans chacun d'eux les donnés utilisés et les programmes créent, et aussi les rendus demander.
