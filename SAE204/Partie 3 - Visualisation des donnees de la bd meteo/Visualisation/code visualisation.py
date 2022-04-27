@@ -57,7 +57,7 @@ print('\n')
 
 #La pluie
 data["Précipitations dans les 12 dernières heures"].plot.box(whis=[0,100],vert=False)
-plt.title("Diagramme en boite des tempérarure en °C de toute la France")
+plt.title("Diagramme en boite des précipitations dans les 12 dernières heures avant le relever en France")
 plt.show()
 
 print("Description des précipitations dans les 12 dernières heures avant le relever en France")
@@ -215,7 +215,7 @@ plt.title("Diagramme en boite des rafales de vent en m/s dans les Bouches-du-Rh�
 plt.show()
 
 plt.scatter(bouche_de_rhone["Direction du vent moyen 10 mn"],bouche_de_rhone["Vitesse du vent moyen 10 mn"])
-plt.title("nuage de point de la vitesse du vent en m/s en fonction de la direction")
+plt.title("Nuage de point de la vitesse du vent en m/s en fonction de la direction")
 plt.show()
 
 
@@ -289,7 +289,7 @@ plt.title("Diagramme en boite des rafales de vent en m/s à Mayotte")
 plt.show()
 
 plt.scatter(mayotte["Direction du vent moyen 10 mn"],mayotte["Vitesse du vent moyen 10 mn"])
-plt.title("nuage de point de la vitesse du vent en m/s en fonction de la direction")
+plt.title("Nuage de point de la vitesse du vent en m/s en fonction de la direction à Mayotte")
 plt.show()
 
 
@@ -363,7 +363,7 @@ plt.title("Diagramme en boite des rafales de vent en m/s dans les Alpes-Maritime
 plt.show()
 
 plt.scatter(alpes_aritimes["Direction du vent moyen 10 mn"],alpes_aritimes["Vitesse du vent moyen 10 mn"])
-plt.title("nuage de point de la vitesse du vent en m/s en fonction de la direction")
+plt.title("Nuage de point de la vitesse du vent en m/s en fonction de la direction dans les Alpes-Maritimes")
 plt.show()
 
 
