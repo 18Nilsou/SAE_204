@@ -1,0 +1,271 @@
+Description de la température en France
+count    219575.000000
+mean         14.054863
+std           9.405717
+min         -32.200000
+25%           7.200000
+50%          13.100000
+75%          22.600000
+max          59.700000
+Name: Température (°C), dtype: float64
+
+
+
+
+Description des précipitations dans les 12 dernières heures avant le relever en France
+count    204173.000000
+mean          1.355547
+std           4.905338
+min          -0.100000
+25%           0.000000
+50%           0.000000
+75%           0.400000
+max         188.300000
+Name: Précipitations dans les 12 dernières heures, dtype: float64
+
+
+
+
+Description de la vitesse du vent moyen puis des rafale de vent sur la France
+count    221536.000000
+mean          4.232085
+std           3.233165
+min           0.000000
+25%           1.900000
+50%           3.400000
+75%           5.800000
+max          32.900000
+Name: Vitesse du vent moyen 10 mn, dtype: float64
+
+
+
+
+count    166208.000000
+mean          6.206848
+std           4.378072
+min           0.000000
+25%           3.000000
+50%           5.200000
+75%           8.300000
+max          50.400000
+Name: Rafale sur les 10 dernières minutes, dtype: float64
+
+
+
+
+Description de la température dans la région PACA
+count    11374.000000
+mean        12.982706
+std          7.824467
+min        -10.000000
+25%          7.600000
+50%         12.700000
+75%         18.500000
+max         35.300000
+Name: Température (°C), dtype: float64
+
+
+
+
+Description des précipitations en mm dans les 12 dernières heures avant le relever dans la region PACA
+count    11283.000000
+mean         0.738252
+std          3.315240
+min         -0.100000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max         63.300000
+Name: Précipitations dans les 12 dernières heures, dtype: float64
+
+
+
+
+Description de la vitesse du vent moyen puis des rafale de vent sur la region PACA
+count    15068.000000
+mean         4.408807
+std          3.353640
+min          0.000000
+25%          2.000000
+50%          3.600000
+75%          5.700000
+max         25.900000
+Name: Vitesse du vent moyen 10 mn, dtype: float64
+
+
+
+
+count    11601.000000
+mean         6.915550
+std          4.910106
+min          0.000000
+25%          3.400000
+50%          5.600000
+75%          9.000000
+max         36.000000
+Name: Rafale sur les 10 dernières minutes, dtype: float64
+
+
+
+
+Description de la température dans les Bouches-du-Rhône 
+count    3794.000000
+mean       14.447285
+std         7.546555
+min        -4.000000
+25%         9.100000
+50%        13.600000
+75%        20.000000
+max        35.300000
+Name: Température (°C), dtype: float64
+
+
+
+
+Description des précipitations en mm dans les 12 dernières heures avant le relever dans les Bouches-du-Rhône
+count    3755.000000
+mean        0.600772
+std         2.805474
+min        -0.100000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        40.300000
+Name: Précipitations dans les 12 dernières heures, dtype: float64
+
+
+
+
+Description de la vitesse du vent moyen puis des rafale de vent sur la France
+count    3794.000000
+mean        4.522878
+std         3.374233
+min         0.000000
+25%         2.000000
+50%         3.600000
+75%         6.200000
+max        20.800000
+Name: Vitesse du vent moyen 10 mn, dtype: float64
+
+
+
+
+count    3787.000000
+mean        6.502060
+std         4.731111
+min         0.000000
+25%         2.900000
+50%         5.200000
+75%         8.800000
+max        32.500000
+Name: Rafale sur les 10 dernières minutes, dtype: float64
+
+
+
+
+Description de la température às Mayotte 
+count    1477.000000
+mean       27.471903
+std         2.281842
+min        20.700000
+25%        25.900000
+50%        27.400000
+75%        29.000000
+max        33.400000
+Name: Température (°C), dtype: float64
+
+
+
+
+Description des précipitations en mm dans les 12 dernières heures avant le relever à Mayotte
+count    1427.000000
+mean        2.375333
+std         8.656672
+min        -0.100000
+25%         0.000000
+50%         0.000000
+75%         0.200000
+max        90.300000
+Name: Précipitations dans les 12 dernières heures, dtype: float64
+
+
+
+
+Description de la vitesse du vent moyen puis des rafale de vent à Mayotte
+count    1475.000000
+mean        3.598237
+std         2.055805
+min         0.000000
+25%         2.050000
+50%         3.200000
+75%         4.900000
+max        10.800000
+Name: Vitesse du vent moyen 10 mn, dtype: float64
+
+
+
+
+count    1427.000000
+mean        5.292852
+std         2.863296
+min         0.000000
+25%         3.000000
+50%         4.800000
+75%         7.000000
+max        16.500000
+Name: Rafale sur les 10 dernières minutes, dtype: float64
+
+
+
+
+Description de la température dans les Alpes-Maritimes 
+count    3795.000000
+mean       15.170303
+std         6.302928
+min         2.400000
+25%        10.100000
+50%        14.200000
+75%        20.300000
+max        33.900000
+Name: Température (°C), dtype: float64
+
+
+
+
+Description des précipitations en mm dans les 12 dernières heures avant le relever dans les Alpes-Maritimes
+count    3758.000000
+mean        0.680229
+std         3.336274
+min        -0.100000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        49.600000
+Name: Précipitations dans les 12 dernières heures, dtype: float64
+
+
+
+
+Description de la vitesse du vent moyen puis des rafale de vent dans les Alpes-Maritimes
+count    3795.000000
+mean        3.981001
+std         2.226929
+min         0.000000
+25%         2.500000
+50%         3.600000
+75%         4.900000
+max        14.800000
+Name: Vitesse du vent moyen 10 mn, dtype: float64
+
+
+
+
+count    3785.000000
+mean        5.401532
+std         2.962792
+min         0.000000
+25%         3.400000
+50%         4.800000
+75%         6.500000
+max        21.100000
+Name: Rafale sur les 10 dernières minutes, dtype: float64
