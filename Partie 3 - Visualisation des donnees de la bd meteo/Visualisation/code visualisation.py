@@ -3,8 +3,15 @@
 Created on Fri Apr 25 19:15:20 2022
 
 @author: Nils Saadi
-"""
 
+Les données etant trop lourdes, on a pas pu les télécharger sur Ametice ou GitHub.
+Par conséquent pour les obtenir il faut suivre ces étapes:
+    - aller sur https://public.opendatasoft.com/explore/dataset/donnees-synop-essentielles-omm/export/?flg=fr&sort=date&q.timerange.date=date:%5B2020-12-31T23:00:00Z+TO+2022-04-18T21:59:59Z%5D
+    - telecharger en format .csv
+    - dans le fichier remplacer les "," par des "."
+    - puis les ";" par des ","
+    - lancer ce code qui génere les graphiques a l'aide des données télécharger
+"""
 import matplotlib.pyplot as plt
 import pandas as pd
 
